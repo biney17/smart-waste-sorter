@@ -1,0 +1,6 @@
+path: C:\Users\TECHMATE DZ\files\waste_dataset
+train: train/images
+val: val/images
+
+nc: 2
+names: ['plastic', 'paper']
